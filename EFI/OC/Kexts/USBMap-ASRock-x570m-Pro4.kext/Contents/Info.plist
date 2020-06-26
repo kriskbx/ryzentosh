@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.2 ASRock X570m Pro4 USB map</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.asrock.x570mPro4.USBmap</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ASRock X570m Pro4 USB map</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>IOKitPersonalities_x86_64</key>
+	<dict>
+		<key>iMacPro1,1-XHC0</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IONameMatch</key>
+			<string>XHC0</string>
+			<key>IOProviderClass</key>
+			<string>AppleUSBXHCIPCI</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>port-count</key>
+				<data>CgAAAA==</data>
+				<key>ports</key>
+				<dict>
+					<key>PRT1</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 3rd row right USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AQAAAA==</data>
+					</dict>
+					<key>PRT2</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 3rd row left USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AgAAAA==</data>
+					</dict>
+					<key>PRT3</key>
+					<dict>
+						<key>Comment</key>
+						<string>Front left USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AwAAAA==</data>
+					</dict>
+					<key>PRT4</key>
+					<dict>
+						<key>Comment</key>
+						<string>Front right USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>BAAAAA==</data>
+					</dict>
+					<key>PRT5</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 2nd row left USB-C 2.0</string>
+						<key>UsbConnector</key>
+						<integer>8</integer>
+						<key>port</key>
+						<data>BQAAAA==</data>
+					</dict>
+					<key>PRT6</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 2nd row right USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>BgAAAA==</data>
+					</dict>
+					<key>PRT7</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 3rd row right USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BwAAAA==</data>
+					</dict>
+					<key>PRT8</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 3rd row left USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CAAAAA==</data>
+					</dict>
+					<key>PRT9</key>
+					<dict>
+						<key>Comment</key>
+						<string>Front left USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CQAAAA==</data>
+					</dict>
+					<key>PRT10</key>
+					<dict>
+						<key>Comment</key>
+						<string>Front right USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CgAAAA==</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>iMacPro1,1</string>
+		</dict>
+		<key>iMacPro1,1-XHCI</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IONameMatch</key>
+			<string>XHCI</string>
+			<key>IOProviderClass</key>
+			<string>AppleUSBXHCIPCI</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>port-count</key>
+				<data>CAAAAA==</data>
+				<key>ports</key>
+				<dict>
+					<key>PRT7</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 2nd row left USB-C 3.0</string>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>BwAAAA==</data>
+					</dict>
+					<key>PRT8</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 2nd row right USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CAAAAA==</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>iMacPro1,1</string>
+		</dict>
+		<key>iMacPro1,1-XHC2</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IONameMatch</key>
+			<string>XHC2</string>
+			<key>IOProviderClass</key>
+			<string>AppleUSBXHCIPCI</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>port-count</key>
+				<data>CAAAAA==</data>
+				<key>ports</key>
+				<dict>
+					<key>PRT1</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 1st row left USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AQAAAA==</data>
+					</dict>
+					<key>PRT2</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 1st row right USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AgAAAA==</data>
+					</dict>
+					<key>PRT3</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 4th row left USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>AwAAAA==</data>
+					</dict>
+					<key>PRT4</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 4th row right USB 2.0</string>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>BAAAAA==</data>
+					</dict>
+					<key>PRT5</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 1st row left USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BQAAAA==</data>
+					</dict>
+					<key>PRT6</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 1st row right USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BgAAAA==</data>
+					</dict>
+					<key>PRT7</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 4th row left USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BwAAAA==</data>
+					</dict>
+					<key>PRT8</key>
+					<dict>
+						<key>Comment</key>
+						<string>Back 4th row right USB 3.0</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CAAAAA==</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>iMacPro1,1</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>OSBundleCompatibleVersion</key>
+	<string>1.0</string>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.driver.AppleUSBHostMergeProperties</key>
+		<string>1.2</string>
+	</dict>
+	<key>OSBundleRequired</key>
+	<string>Root</string>
+</dict>
+</plist>
