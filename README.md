@@ -16,7 +16,6 @@
 * Inject PowerPlayTable data to undervolt and overclock the GPU
 * Display correct CPU name in System Information
 * GUI for boot menu
-* Get rid of console output at startup
 
 ## What doesn't work
 
