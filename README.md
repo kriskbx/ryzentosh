@@ -1,7 +1,7 @@
 # ryzentosh
 
 > OpenCore 0.5.8 EFI for ASRock x570M Pro4 motherboard, macOS Catalina 10.15.5  
-> AMD Radeon RX 5700XT, any AMD Ryzen 7/9 series CPU should work
+> AMD Radeon RX 5700XT, any AMD Ryzen Zen series CPU should work
 
 ## UEFI Settings
 
