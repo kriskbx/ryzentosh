@@ -149,6 +149,15 @@
 				<data>CAAAAA==</data>
 				<key>ports</key>
 				<dict>
+					<key>PRT6</key>
+					<dict>
+						<key>Comment</key>
+						<string>Internal bluetoothh</string>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
+						<data>BgAAAA==</data>
+					</dict>
 					<key>PRT7</key>
 					<dict>
 						<key>Comment</key>
