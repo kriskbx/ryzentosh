@@ -18,7 +18,9 @@
 
 * Inject PowerPlayTable data to undervolt and overclock the GPU
 * Display correct CPU name in System Information
+* Sleep is still not working reliably
 * GUI for boot menu
+* Improve virtualization performance (docker is terribly slow…)
 
 ## What doesn't work
 
