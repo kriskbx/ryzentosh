@@ -20,10 +20,9 @@
 * Display correct CPU name in System Information
 * Sleep is still not working reliably
 * GUI for boot menu
-* Improve virtualization performance (docker is terribly slow…)
 
 ## What doesn't work
 
 * Front panel mic (will never work)
-* Hyperkit (just use docker toolbox with VirtualBox)
+* Hyperkit (just use docker toolbox with VirtualBox or better: [dinghy](https://github.com/codekitchen/dinghy))
 * DRM in Safari and TV (DRM in Firefox/Chrome works fine)
