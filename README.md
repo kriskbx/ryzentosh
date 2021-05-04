@@ -21,6 +21,10 @@ I updated to v3.0 with a Pinnacle Ridge CPU [using this guide](https://download.
 * Sleep/Hibernation!
 * Everything except the things below
 
+## What's kinda working
+
+* USB accessories on the second USB controller (XHC2) sometimes freeze the system when under heavy load. USB-mapping was done correctly (I checked four times) and the Embedded Controller and USB-X fix for power management seems to work reliably too. Not really sure what's causing this. For now I just use the USB ports on the second and third row, as well as the frontside ports.
+
 ## What doesn't work
 
 * Display of correct CPU name in System Information (hard to do without disabling sip)
