@@ -23,7 +23,7 @@ I updated to v3.0 with a Pinnacle Ridge CPU [using this guide](https://download.
 
 ## What's kinda working
 
-* USB accessories on the second USB controller (XHCI, formerly XHC1) sometimes freeze the system when under heavy load. USB-mapping was done correctly (I checked four times) and the Embedded Controller and USB-X fix for power management seems to work reliably too. Not really sure what's causing this. For now I just use the USB ports on the second and third row, as well as the frontside ports.
+* USB accessories on the second USB controller (XHCI, formerly XHC1) sometimes freeze the system when under heavy load. USB-mapping was done correctly (I checked four times) and the Embedded Controller seems to work reliably too. I think the USB-X fix for power management works, not sure how to test it though. Not really sure what's causing this. For now I just use the USB ports on the second and third row, as well as the frontside ports.
 
 ## What doesn't work
 
