@@ -5,7 +5,7 @@
 
 ## Bios
 
-I updated to v3.0 with a Pinnacle Ridge CPU [using this guide](https://download.asrock.com/TSD/Ryzen5000/X570M%20Pro4.pdf). Then exchanged the CPU to a 5000 series and upgraded to v3.4.
+I updated to v3.0 with a Pinnacle Ridge CPU [using this guide](https://download.asrock.com/TSD/Ryzen5000/X570M%20Pro4.pdf). Then exchanged the CPU to a 5000 series and upgraded normally to v3.4.
 
 ## UEFI Settings
 
