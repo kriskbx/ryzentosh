@@ -1,7 +1,7 @@
 # ryzentosh
 
 > OpenCore 0.6.6 EFI for ASRock x570M Pro4 motherboard, macOS Big Sur 11.2
-> AMD Radeon RX 5700XT, any AMD Ryzen Zen series CPU should work (I'm using a Ryzen 9 5900)
+> AMD Radeon RX 5700XT, any AMD Ryzen Zen series CPU should work (I'm using a Ryzen 9 5900X)
 
 ## Bios
 
