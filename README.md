@@ -3,6 +3,12 @@
 > OpenCore 0.8.9 EFI for ASRock x570M Pro4 motherboard, macOS Ventura 13.2
 > AMD Radeon RX 5700XT, any AMD Ryzen Zen series CPU should work (I'm using a Ryzen 9 5900)
 
+## Hardware
+
+* ASRock x570M Pro4
+* AMD Radeon RX 5700XT
+* TP-Link Archer TX50E AX3000
+
 ## Bios
 
 I updated to v3.0 with a Pinnacle Ridge CPU [using this guide](https://download.asrock.com/TSD/Ryzen5000/X570M%20Pro4.pdf). Then exchanged the CPU to a 5000 series and upgraded normally to v3.4.
